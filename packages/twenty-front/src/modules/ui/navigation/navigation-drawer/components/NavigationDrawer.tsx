@@ -71,7 +71,7 @@ const StyledContent = styled.div`
   display: flex;
   flex: 1;
   flex-direction: column;
-  gap: ${themeCssVariables.spacing[2]};
+  gap: ${themeCssVariables.spacing[3]};
   min-height: 0;
   padding-left: ${themeCssVariables.spacing[2]};
 
